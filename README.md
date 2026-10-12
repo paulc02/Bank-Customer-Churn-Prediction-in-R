@@ -1,9 +1,5 @@
 # Bank Customer Churn Prediction in R
 
-![R](https://img.shields.io/badge/R-4.x-276DC3?logo=r&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-
 > Predicting which bank customers are about to leave, using **fuzzy clustering, logistic regression, decision trees, KNN and a neural network**, all compared on the same 10,000-customer dataset.
 
 🇷🇴 [Versiune în română](README.ro.md) · 📄 [Full report (PDF, Romanian)](docs/Proiect_ICE_report_RO.pdf)
