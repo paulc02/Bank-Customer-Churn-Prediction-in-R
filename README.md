@@ -2,8 +2,6 @@
 
 > Predicting which bank customers are about to leave, using **fuzzy clustering, logistic regression, decision trees, KNN and a neural network**, all compared on the same 10,000-customer dataset.
 
-🇷🇴 [Versiune în română](README.ro.md) · 📄 [Full report (PDF, Romanian)](docs/Proiect_ICE_report_RO.pdf)
-
 ---
 
 ## Overview
@@ -109,11 +107,3 @@ All random steps use `set.seed(123)`, so results are reproducible on the same pa
 - **Single train/test split:** results come from one split. Cross-validation would give more reliable estimates. For KNN, `k` was chosen on the test set, which slightly favours its reported accuracy.
 - **Weak cluster structure:** the average silhouette width is ~0.17, so the two segments overlap heavily and should be read as tendencies, not sharp groups.
 - **Data:** richer behavioural features (transaction frequency, app usage, complaints) would likely improve every model.
-
-## Author
-
-**Calamusa Salvatore-Paolo**, Cybernetics and Economic Informatics, ASE Bucharest
-
-## License
-
-Released under the [MIT License](LICENSE). The dataset belongs to its original publisher on Kaggle and is subject to its own terms.
