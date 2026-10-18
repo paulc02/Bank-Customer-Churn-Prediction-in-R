@@ -90,7 +90,8 @@ bank-churn-prediction-r/
 1. Install [R](https://cran.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/paulc02/bank-churn-prediction-r.git
+   git clone https://github.com/paulc02/Bank-Customer-Churn-Prediction-in-R.git
+   cd Bank-Customer-Churn-Prediction-in-R
    ```
 3. Open `bank-churn-prediction.Rproj` in RStudio (this sets the working directory to the repo root).
 4. Install the packages once: `source("R/install_packages.R")`
