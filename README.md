@@ -44,7 +44,7 @@ It was developed as a university project for the *Computational Intelligence* co
 
 ## Dataset
 
-[Bank Customer Churn]([https://www.kaggle.com/](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)) dataset (public, from Kaggle): 10,000 customers, 14 raw columns. `RowNumber`, `CustomerId` and `Surname` are dropped (no predictive value), leaving 10 predictors and the target:
+[Bank Customer Churn]([https://www.kaggle.com/](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)]) dataset (public, from Kaggle): 10,000 customers, 14 raw columns. `RowNumber`, `CustomerId` and `Surname` are dropped (no predictive value), leaving 10 predictors and the target:
 
 | Variable | Type | Description |
 | --- | --- | --- |
