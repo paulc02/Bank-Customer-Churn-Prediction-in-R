@@ -80,11 +80,8 @@ bank-churn-prediction-r/
 │   └── install_packages.R    # installs the required packages
 ├── data/
 │   └── bank_churn.csv        # dataset (Kaggle)
-├── docs/
-│   └── Proiect_ICE_report_RO.pdf   # full written report (Romanian)
 ├── images/                   # figures used in this README
 ├── bank-churn-prediction.Rproj
-├── LICENSE
 └── README.md
 ```
 
